@@ -4,11 +4,8 @@
 
 First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+![MenuView1](https://user-images.githubusercontent.com/88309711/171356125-e8528f2b-b036-499d-bc79-9f2363abab31.png)
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
