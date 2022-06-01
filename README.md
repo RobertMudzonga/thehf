@@ -1,5 +1,3 @@
-
-
 ## The Home Finder web Application
 
 The home finder is a Demo of an real estate apllication created as a school project.
@@ -9,7 +7,7 @@ The home finder is a Demo of an real estate apllication created as a school proj
 
 ## WHAT INSPIRED ME TO WORK ON THIS PROJECT.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+
 
 [API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
 
