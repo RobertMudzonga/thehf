@@ -2,12 +2,12 @@
 
 ## The Home Finder web Application
 
-First, run the development server:
+The home finder is a Demo of an real estate apllication created as a school project.
 
 ![MenuView1](https://user-images.githubusercontent.com/88309711/171356125-e8528f2b-b036-499d-bc79-9f2363abab31.png)
 
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## WHAT INSPIRED ME TO WORK ON THIS PROJECT.
 
 You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
